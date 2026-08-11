@@ -1,5 +1,4 @@
-
-const productionUrl = 'https://ai-resume-screener-rq8c.onrender.com';
+const productionUrl = 'https://ai-resume-screener-mukesh.onrender.com';
 const developmentUrl = 'http://localhost:5001';
 
 const API_BASE_URL =
